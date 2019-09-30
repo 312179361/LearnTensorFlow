@@ -51,6 +51,7 @@ b3 = tf.transpose(b, perm=[1, 3, 0, 2]) #结果shape为(3,1,4,2)
 print(b3.shape)
 
 
+
 #------------维度的添加---------
 # 添加一个维度expand_dims,参数axis是维度添加的位置，
 c = tf.random.normal([4, 3, 2])
