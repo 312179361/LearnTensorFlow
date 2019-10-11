@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c0080f3-efec-4888-bae9-3a167cc939f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4_梯度下降/4_多输出感知机.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TensorFlow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TensorFlow.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3c0080f3-efec-4888-bae9-3a167cc939f7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +13,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4_梯度下降/2_损失函数及梯度.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="408">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -33,13 +28,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4_梯度下降/4_多输出感知机.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4_梯度下降/5_链式法则.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -63,12 +63,13 @@
         <option value="$PROJECT_DIR$/4_梯度下降/3_单输入感知机.py" />
         <option value="$PROJECT_DIR$/4_梯度下降/3_单输出感知机.py" />
         <option value="$PROJECT_DIR$/4_梯度下降/4_多输出感知机.py" />
+        <option value="$PROJECT_DIR$/4_梯度下降/5_链式法则.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="123" />
-    <option name="y" value="23" />
+    <option name="x" value="120" />
+    <option name="y" value="28" />
     <option name="width" value="1266" />
     <option name="height" value="978" />
   </component>
@@ -77,6 +78,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -98,7 +100,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,17 +234,18 @@
       <workItem from="1570673661352" duration="2069000" />
       <workItem from="1570676190918" duration="6784000" />
       <workItem from="1570801427790" duration="1839000" />
+      <workItem from="1570804531925" duration="134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13615000" />
+    <option name="totallyTimeSpent" value="13749000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="123" y="23" width="1266" height="978" extended-state="0" />
+    <frame x="120" y="28" width="1266" height="978" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16748366" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16993465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -352,8 +354,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4_梯度下降/2_损失函数及梯度.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="408">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -367,9 +369,12 @@
     <entry file="file://$PROJECT_DIR$/4_梯度下降/4_多输出感知机.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_梯度下降/5_链式法则.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
