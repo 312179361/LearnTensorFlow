@@ -14,7 +14,7 @@ with tf.GradientTape() as tape:
 
 # 计算梯度
 grads = tape.gradient(loss, [w, b])
-
+# grads[0]是loss对w的梯度(偏微分)。grads[1]是loss对b的梯度(偏微分)
 print(grads[0])
 print(grads[1])
 
