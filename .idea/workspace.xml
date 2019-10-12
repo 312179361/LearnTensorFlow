@@ -26,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/4_梯度下降/2_损失函数及梯度.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
-              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -217,17 +217,18 @@
       <workItem from="1570600449014" duration="2923000" />
       <workItem from="1570673661352" duration="2069000" />
       <workItem from="1570676190918" duration="6784000" />
+      <workItem from="1570782471821" duration="555000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11776000" />
+    <option name="totallyTimeSpent" value="12331000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="698" extended-state="0" />
+    <frame x="-1588" y="47" width="1288" height="799" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26003212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -277,13 +278,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_梯度下降/1_sigmoid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/4_梯度下降/1_sigmoid.py" />
     <entry file="file://$PROJECT_DIR$/2_learn_tensorFlow/8_张量合并与分割.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -334,7 +329,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3_神经网络与全连接层/1_forword.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
+        <state relative-caret-position="3335">
           <caret line="150" column="18" selection-start-line="150" selection-start-column="14" selection-end-line="150" selection-end-column="18" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
@@ -345,7 +340,7 @@
     <entry file="file://$PROJECT_DIR$/4_梯度下降/2_损失函数及梯度.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
         </state>
       </provider>
     </entry>
