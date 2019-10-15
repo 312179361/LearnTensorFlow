@@ -6,7 +6,7 @@ from tensorflow.keras import datasets
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
-# 加载一个数据集
+# 加载一个数据集 ，
 # x:[60k, 28, 28]  y:[60k]
 (x, y), _ = datasets.mnist.load_data()
 
