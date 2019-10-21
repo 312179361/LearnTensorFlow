@@ -89,6 +89,7 @@ H(P1, Q2) = -ΣP(i)logQ(i)
           = -log0.98 ≈0.02   这个熵离0就很接近了，这样误差loss就小很多
           
 '''
+
 # 利用tf.losses.categorical_crossentropy(p,q),p是真实值，q是预测值,求交叉熵。
 a = tf.losses.categorical_crossentropy([0,1,0,0], [0.25,0.25,0.25,0.25])
 print(a)
