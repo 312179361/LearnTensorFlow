@@ -93,8 +93,8 @@ def main():
 
     # 创建全连接层
     fc_net = Sequential([
-        # layers.Dense(256, activation=tf.nn.relu),
-        # layers.Dense(128, activation=tf.nn.relu),
+        layers.Dense(256, activation=tf.nn.relu),
+        layers.Dense(128, activation=tf.nn.relu),
         layers.Dense(100, activation=None),
 
     ])
